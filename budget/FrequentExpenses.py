@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import Expense
+from . import Expense
 import collections
 
 
